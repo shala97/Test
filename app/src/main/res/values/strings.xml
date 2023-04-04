@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="no_boots_message">No boots detected</string>
+    <string name="single_boot_message">The boot was detected with the timestamp = %s</string>
+    <string name="multiple_boot_message">Last boots time delta = %s</string>
+    <string name="channel_name">test_app_chanel</string>
+    <string name="channel_description">channnel description</string>
+</resources>
